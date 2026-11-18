@@ -1,7 +1,7 @@
 public class Test4 {
 	public static void main(String[] args) {
 		System.out.println("Test4");
-		System.out.println("Sample4");
+		System.out.println("Example4");
 		System.out.println("Test4");
 		//		Dog dog = new Dog();
 	}
